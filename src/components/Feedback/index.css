@@ -1,0 +1,14 @@
+.list-container {
+  display: flex;
+  flex-direction: row;
+}
+.image-container {
+  display: flex;
+  flex-direction: column;
+}
+.image {
+  height: 100px;
+  width: 100px;
+  cursor: pointer;
+  outline: none;
+}
